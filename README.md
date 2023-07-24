@@ -1,7 +1,6 @@
 Hi, I'm Igor Titarenko.
 
-I'm a freelance WordPress Developer mainly interested in creating child themes from client's designs and theme and plugin edits and customizations.
-I'm currently learning about Gutenberg Blocks and creating WordPress v5.9 -ready themes from scratch.
+I'm a backend/frontend developer specializing on custom solutions for CMS WordPress.
 
 <!---
 igortitarenko/igortitarenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
